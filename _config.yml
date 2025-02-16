@@ -22,7 +22,7 @@ title: DMP's Website
 email: dangminhphuc505@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Đây là website cá nhân của tôi, nơi chia sẻ kiến thức và kinh nghiệm của bản thân.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "my_web" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username:  tis51T
