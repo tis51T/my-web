@@ -21,7 +21,7 @@ Một bài đăng trên trang trông như sau:
 <div style="display: flex; align-items: center;">
     <img src="/assets/images/house_price_prediction/estate_post.jpg" alt="Ảnh ví dụ" style="width: 50%; margin-right: 40px; margin-left: 40px; margin-bottom: 40px">
     <p>
-        Phần khoanh <span style="color: green;">xanh lá</span> là tiêu đề bài đăng, phần khoanh <span style="color: orange">cam</span> là thông tin của bất động sản (hoặc là căn nhà), phần khoanh <span style="color: blue">xanh lam</span> là nội dung bài đăng.
+        Phần khoanh <b><span style="color: green;">xanh lá</span></b> là tiêu đề bài đăng, phần khoanh <b><span style="color: orange">cam</span></b> là thông tin của bất động sản (hoặc là căn nhà), phần khoanh <b><span style="color: blue">xanh lam</span></b> là nội dung bài đăng.
     </p>
 </div>
 
